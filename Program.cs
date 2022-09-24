@@ -37,6 +37,9 @@ namespace ChaseDictionaries
 
                 }
 
+                
+                //now use the data now that we have it loaded
+
                 Console.WriteLine($"The artist with ID of A is: {artists["A"]}");
                 var cursor = "Enter a name of a producer you would like to seach for (? to see a list of producers):";
                 Console.Write(cursor);
