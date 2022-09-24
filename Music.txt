@@ -1,0 +1,11 @@
+A	Brett	Pup
+B	Chase	Logic
+C	Chase	Twenty One
+D	Janice	Easy Life
+E	Logan 	Maroon 5
+F	Syd	Zeppelin
+G	Helo	Greta Van Fleet
+H	Brett	Rage Against the Machine
+I 	Janice	Matchbox 20
+J	Chase	Dreamer
+K	Logan 	Wombats
